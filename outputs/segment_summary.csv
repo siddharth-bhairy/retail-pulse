@@ -1,0 +1,4 @@
+segment,customers,avg_recency_days,avg_frequency,avg_monetary
+High-Value Active,115,9.4,46.2,666795.5
+Occasional / New,594,23.5,15.0,105149.2
+At-Risk / Dormant,91,156.3,8.8,51450.9
