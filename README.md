@@ -66,7 +66,7 @@ by date range, region, and category.
 
 ## Live dashboard
 
-Deployed on Streamlit Community Cloud: **[add your deployed URL here once live]**
+Deployed on Streamlit Community Cloud: **https://retail-pulse-afgxswfcsqphtkc6mkqdru.streamlit.app/**
 
 ## Project structure
 
